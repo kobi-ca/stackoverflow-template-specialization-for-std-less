@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(stackoverflow_template_specialization_for_std_less)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(stackoverflow_template_specialization_for_std_less main.cpp)
